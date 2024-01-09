@@ -9,6 +9,7 @@ public class DemoA {
 		System.out.println("Sprint 1 work...");
 		System.out.println("Sprint 2 work...");
 		
+		System.out.println("Determination towards success");//Can't Fail..
 		
 		System.out.println("Practice");
 		
